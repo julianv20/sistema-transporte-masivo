@@ -20,7 +20,7 @@ Este proyecto implementa un sistema inteligente basado en conocimiento que utili
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-transporte-masivo.git
+https://github.com/julianv20/sistema-transporte-masivo.git
 cd sistema-transporte-masivo
 ```
 
